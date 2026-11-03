@@ -10,7 +10,7 @@
 
 ### Minha rota até aqui
 
-<img src="assets/rota.svg" width="100%" alt="2022: início em Computer Science no Instituto Mauá. 2024: Capgemini, dev júnior em projetos do Pix do Bradesco e da Ágora Investimentos. 2026: Simpar, Service Desk Jr e Field Service PL. 2026: conclusão de Ciência da Computação na USCS em dezembro.">
+<img src="assets/rota.svg" width="100%" alt="2024: Capgemini, dev júnior em projetos do Pix do Bradesco e da Ágora Investimentos. 2026: Simpar como Field Jr. 2026: Simpar como Field PL, prestando serviço para o banco BBC.">
 
 ### Alguns projetos
 
