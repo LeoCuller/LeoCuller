@@ -10,7 +10,7 @@
 
 ### Minha rota até aqui
 
-<img src="assets/rota.svg" width="100%" alt="2024: Capgemini, dev júnior em projetos do Pix do Bradesco e da Ágora Investimentos. 2026: Simpar como Field Jr. 2026: Simpar como Field PL, prestando serviço para o banco BBC.">
+<img src="assets/rota.svg" width="100%" alt="2024: Capgemini, dev júnior em projetos do Pix do Bradesco e da Ágora Investimentos. 2026: Simpar como Service Desk Jr. 2026: Simpar como Field PL, prestando serviço para o banco BBC.">
 
 ### Alguns projetos
 
