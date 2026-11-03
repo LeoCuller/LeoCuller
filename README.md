@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Leonardo Moraes Culler. Desenvolvedor e estudante de Ciência da Computação. Pix do Bradesco e Ágora Investimentos na Capgemini. Hoje na Simpar, construindo com Node.js, TypeScript e IA.">
+  <img src="assets/banner.svg" width="100%" alt="Leonardo Moraes Culler. Desenvolvedor e estudante de Ciência da Computação. Pix do Bradesco e Ágora Investimentos na Capgemini. Hoje na Simpar como Field PL, prestando serviço para o banco BBC.">
 </p>
 
 <p align="center">
